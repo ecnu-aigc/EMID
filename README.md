@@ -6,7 +6,7 @@ Please cite the our EMID paper, when using this dataset: http://arxiv.org/XXXXX
 
 ### Processing Pipeline
 
-![pipeline](E:\Program\assets\pipeline.jpg)
+![pipeline](./pipeline.jpg)
 
 ### Statistics of EMID
 
