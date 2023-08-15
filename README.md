@@ -23,7 +23,9 @@ The published dataset takes the form of a `.csv` file that contains the filename
 
 [image data address](https://onedrive.live.com/?cid=ab6522e29f6ed9a0&id=AB6522E29F6ED9A0%21101730&authkey=!AH57YMUbsP-qNls)
 
-The usage of the dataset is published under Non Commercial Creative Commons (BY-NC) license which provides free access to the data for non-profit work. We are by no means can guaranty support for its users. This database comes as is with no guaranty of correctness and we are not liable to any damage it might cause. 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>,which provides free access to the data for non-profit work. We are by no means can guaranty support for its users. This database comes as is with no guaranty of correctness and we are not liable to any damage it might cause.
+
+
 
 
 
